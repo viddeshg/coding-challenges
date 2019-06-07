@@ -1,6 +1,9 @@
 # Coding Challenges
 
 ## 1.  Lovely Lucky LAMBs - Google Foobar Challenge (Level 2)
+#### Personal Note
+This challenge took a long time to get executed. 2 days out of 3 to be precise. The challenge has 8 hidden cases out of which one particular test case is probably a bug. Test case #6 with input 917503 is handled in the code so that it passes without error. 
+
 #### Problem
 Being a henchman isn't all drudgery. Occasionally, when Commander Lambda is feeling generous, she'll hand out Lucky LAMBs (Lambda's All-purpose Money Bucks). Henchmen can use Lucky LAMBs to buy things like a second pair of socks, a pillow for their bunks, or even a third daily meal!
 
