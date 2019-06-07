@@ -19,10 +19,11 @@ Write a function called solution(total_lambs), where total_lambs is the integer 
 To keep things interesting, Commander Lambda varies the sizes of the Lucky LAMB payouts. You can expect total_lambs to always be a positive integer less than 1 billion (10 ^ 9).
 
 **Test cases**
+
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
 ```
 Input: 143 :: Output: 3
-Input: 10 :: Output: 1
+Input:  10 :: Output: 1
 ```
