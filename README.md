@@ -1,7 +1,7 @@
 # Coding Challenges
 
-## Lovely Lucky LAMBs - Google Foobar Challenge (Level 2)
-### Problem
+## 1. Lovely Lucky LAMBs - Google Foobar Challenge (Level 2)
+#### Problem
 Being a henchman isn't all drudgery. Occasionally, when Commander Lambda is feeling generous, she'll hand out Lucky LAMBs (Lambda's All-purpose Money Bucks). Henchmen can use Lucky LAMBs to buy things like a second pair of socks, a pillow for their bunks, or even a third daily meal!
 
 However, actually passing out LAMBs isn't easy. Each henchman squad has a strict seniority ranking which must be respected - or else the henchmen will revolt and you'll all get demoted back to minions again! 
@@ -18,7 +18,7 @@ Write a function called solution(total_lambs), where total_lambs is the integer 
 
 To keep things interesting, Commander Lambda varies the sizes of the Lucky LAMB payouts. You can expect total_lambs to always be a positive integer less than 1 billion (10 ^ 9).
 
-*Test cases*
+**Test cases**
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
