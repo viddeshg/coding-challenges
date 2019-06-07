@@ -22,8 +22,7 @@ To keep things interesting, Commander Lambda varies the sizes of the Lucky LAMB 
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
-Input: 143
-Output: 3
-
-Input: 10
-Output: 1
+```
+Input: 143 :: Output: 3
+Input: 10 :: Output: 1
+```
