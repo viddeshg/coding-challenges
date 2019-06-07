@@ -22,24 +22,8 @@ To keep things interesting, Commander Lambda varies the sizes of the Lucky LAMB 
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
--- Python cases --
-Input:
-solution.solution(143)
-Output:
-    3
+Input: 143
+Output: 3
 
-Input:
-solution.solution(10)
-Output:
-    1
-
--- Java cases --
-Input:
-Solution.solution(143)
-Output:
-    3
-
-Input:
-Solution.solution(10)
-Output:
-    1
+Input: 10
+Output: 1
