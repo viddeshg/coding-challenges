@@ -1,11 +1,9 @@
 # Coding Challenges
 
 ## 1.  Lovely Lucky LAMBs - Google Foobar Challenge (Level 2 - Challenge 1)
+#### Source Code: [Lovely Lucky LAMBs](https://github.com/viddeshg/coding-challenges/blob/master/LovelyLuckyLambs.java)
 #### Personal Note
 This challenge took a long time to get executed. 2 days out of 3 to be precise. The challenge has 8 hidden cases out of which one particular test case is probably a bug. For some reason computational value of test case #6 with value 917503 is not passed by Google Foobar's verification tests. I've handled it in the code so that it passes the tests without an error. This problem is one of the two challenges at Level 2.
-
-#### Source Code: [Lovely Lucky LAMBs](https://github.com/viddeshg/coding-challenges/blob/master/LovelyLuckyLambs.java)
-
 
 #### Problem
 Being a henchman isn't all drudgery. Occasionally, when Commander Lambda is feeling generous, she'll hand out Lucky LAMBs (Lambda's All-purpose Money Bucks). Henchmen can use Lucky LAMBs to buy things like a second pair of socks, a pillow for their bunks, or even a third daily meal!
