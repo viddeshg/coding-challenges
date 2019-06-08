@@ -1,7 +1,6 @@
 # Coding Challenges
 
 ## 1.  Lovely Lucky LAMBs - Google Foobar Challenge (Level 2 - Challenge 1)
-#### Source Code: [Lovely Lucky LAMBs](https://github.com/viddeshg/coding-challenges/blob/master/LovelyLuckyLambs.java)
 #### Personal Note
 This challenge took a long time to get executed. 2 days out of 3 to be precise. The challenge has 8 hidden cases out of which one particular test case is probably a bug. For some reason computational value of test case #6 with value 917503 is not passed by Google Foobar's verification tests. I've handled it in the code so that it passes the tests without an error. This problem is one of the two challenges at Level 2.
 
@@ -31,9 +30,10 @@ Note that it may also be run against hidden test cases not shown here.
 Input: 143 :: Output: 3
 Input:  10 :: Output: 1
 ```
+#### Source Code: [Lovely Lucky LAMBs](https://github.com/viddeshg/coding-challenges/blob/master/LovelyLuckyLambs.java)
+
 
 ## 2.  Hey, I Already Did That! - Google Foobar Challenge (Level 2 - Challenge 2)
-#### Source Code: [Hey, I Already Did That!](https://github.com/viddeshg/coding-challenges/blob/master/HeyIAlreadyDidThat.java)
 #### Personal Note
 This was a relatively easier challenge. Code can be optimized using java libraries but many of them are blacklisted. Example java.lang.StringBuilder can be used to reverse the string but it gave error on it's usage. Took me 5 hrs, 13 mins, 37 secs to complete the challenge. Drew a flowchart which allowed me a flow during actual coding. Passed all the tests in one go, after removing the blacklisted libraries.
 
@@ -62,4 +62,5 @@ Note that it may also be run against hidden test cases not shown here.
 Input: Solution.solution('210022', 3) :: Output: 3
 Input:  Solution.solution('1211', 10) :: Output: 1
 ```
+#### Source Code: [Hey, I Already Did That!](https://github.com/viddeshg/coding-challenges/blob/master/HeyIAlreadyDidThat.java)
 
