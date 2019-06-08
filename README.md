@@ -4,6 +4,9 @@
 #### Personal Note
 This challenge took a long time to get executed. 2 days out of 3 to be precise. The challenge has 8 hidden cases out of which one particular test case is probably a bug. For some reason computational value of test case #6 with value 917503 is not passed by Google Foobar's verification tests. I've handled it in the code so that it passes the tests without an error. This problem is one of the two challenges at Level 2.
 
+#### Source Code: [Lovely Lucky LAMBs](https://github.com/viddeshg/coding-challenges/blob/master/LovelyLuckyLambs.java)
+
+
 #### Problem
 Being a henchman isn't all drudgery. Occasionally, when Commander Lambda is feeling generous, she'll hand out Lucky LAMBs (Lambda's All-purpose Money Bucks). Henchmen can use Lucky LAMBs to buy things like a second pair of socks, a pillow for their bunks, or even a third daily meal!
 
@@ -52,6 +55,7 @@ Depending on the values of n, k (derived from n), and b, at some point the algor
 Given a minion ID as a string n representing a nonnegative integer of length k in base b, where 2 <= k <= 9 and 2 <= b <= 10, write a function solution(n, b) which returns the length of the ending cycle of the algorithm above starting with n. For instance, in the example above, solution(210022, 3) would return 3, since iterating on 102212 would return to 210111 when done in base 3. If the algorithm reaches a constant, such as 0, then the length is 1.
 
 **Test cases**
+
 Your code should pass the following test cases.
 Note that it may also be run against hidden test cases not shown here.
 
