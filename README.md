@@ -32,8 +32,6 @@ Input:  10 :: Output: 1
 ```
 #### Source Code: [Lovely Lucky LAMBs](https://github.com/viddeshg/google-foobar-challenges/blob/master/LovelyLuckyLambs.java)
 
-
-
 ## 2.  Hey, I Already Did That! - Google Foobar Challenge (Level 2 - Challenge 2)
 #### Personal Note
 This was a relatively easier challenge. Code can be optimized using java libraries but many of them are blacklisted. Example java.lang.StringBuilder can be used to reverse the string but it gave error on it's usage. Took me 5 hrs, 13 mins, 37 secs to complete the challenge. Drew a flowchart which allowed me a flow during actual coding. Passed all the tests in one go, after removing the blacklisted libraries.
