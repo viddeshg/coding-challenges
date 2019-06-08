@@ -1,4 +1,4 @@
-# Coding Challenges
+# Google Foobar Challenges
 
 ## 1.  Lovely Lucky LAMBs - Google Foobar Challenge (Level 2 - Challenge 1)
 #### Personal Note
@@ -30,7 +30,7 @@ Note that it may also be run against hidden test cases not shown here.
 Input: 143 :: Output: 3
 Input:  10 :: Output: 1
 ```
-#### Source Code: [Lovely Lucky LAMBs](https://github.com/viddeshg/coding-challenges/blob/master/LovelyLuckyLambs.java)
+#### Source Code: [Lovely Lucky LAMBs](https://github.com/viddeshg/google-foobar-challenges/blob/master/LovelyLuckyLambs.java)
 
 
 ## 2.  Hey, I Already Did That! - Google Foobar Challenge (Level 2 - Challenge 2)
@@ -62,5 +62,5 @@ Note that it may also be run against hidden test cases not shown here.
 Input: Solution.solution('210022', 3) :: Output: 3
 Input:  Solution.solution('1211', 10) :: Output: 1
 ```
-#### Source Code: [Hey, I Already Did That!](https://github.com/viddeshg/coding-challenges/blob/master/HeyIAlreadyDidThat.java)
+#### Source Code: [Hey, I Already Did That!](https://github.com/viddeshg/google-foobar-challenges/blob/master/HeyIAlreadyDidThat.java)
 
